@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Gia đình</title>
+</head>
+<body>
+  <header>
+    <img src="/assets/images/logo.png" alt="Logo của ứng dụng Gia đình">
+    <h1>Gia đình</h1>
+    <h2>Ứng dụng quản lý và kết nối gia đình</h2>
+  </header>
+  <main>
+    <section class="features">
+      <h3>Các tính năng chính</h3>
+      <ul>
+        <li>Lập kế hoạch sự kiện gia đình</li>
+        <li>Kết nối với các thành viên trong gia đình</li>
+        <li>Chia sẻ kỷ niệm gia đình</li>
+      </ul>
+    </section>
+    <section class="cta">
+      <a href="/register">Tạo tài khoản</a>
+    </section>
+  </main>
+  <footer>
+    <p>Copyright &copy; 2024</p>
+  </footer>
+</body>
+</html>
